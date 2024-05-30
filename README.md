@@ -13,7 +13,8 @@ Hello, this was an introductory practice project for me to utilize Google Collab
 
 This doesn't account for all NBA games, as it can't account for all 2460 games played. Each team plays 83 games, and there are 30 teams in the league. The data sample is smaller but can account for a greater sample. 
 
-This program just analyzes who has a greater win-loss ratio against a certain team and creates edges based on that. IT DOES NOT LOOK FOR THE PROBABILITY statistics. 
+This program analyzes who has a greater win-loss ratio against a certain team and creates edges based on that. IT DOES NOT LOOK FOR THE PROBABILITY statistics.
+
 ------------------
 # Stuff that can improve 
 
