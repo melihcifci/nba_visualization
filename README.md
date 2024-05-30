@@ -4,10 +4,10 @@ Hello, this was an introductory practice project for me to utilize Google Collab
 
 ------------------
 # Skills Developed 
-**Data Scraping**
-**Data Manipulation of Data Frames**
-**Data Linking & Utilizing Dictionaries**
-**Computer Network Diagram Libraries such as 'networkx'**
+**Data Scraping** |||
+**Data Manipulation of Data Frames** |||
+**Data Linking & Utilizing Dictionaries** |||
+**Computer Network Diagram Libraries such as 'networkx'** |||
 ------------------
 # Additional Info 
 
